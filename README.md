@@ -143,8 +143,10 @@ Dataset utilizado: [Construction Site Safety Image Dataset](https://www.kaggle.c
 
 ## Autores
 
-- Marcelo Hernández
-- Karen [Apellido]
+- Marcelo Herquiñigo Vargas
+- Karen Rodriguez Contreras
+- Sebastian Tobar Rojas
+- Luis Zúñiga Olguín
 
 ## Licencia
 
