@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Resultados temporales
+resultado_deteccion.jpg
+resultado_video.mp4
+
+# Dataset (muy pesado)
+archive/css-data/
+
+# Modelo base (se descarga automáticamente)
+yolov8n.pt
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
