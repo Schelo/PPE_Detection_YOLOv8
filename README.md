@@ -96,19 +96,16 @@ python train.py
 ```
 
 ## Estructura del Proyecto
+```text
 PPE_Detection_YOLOv8/
 ├── archive/
 │   ├── css-data/           # Dataset (train/valid/test)
-│   │   ├── train/
-│   │   ├── valid/
-│   │   └── test/
 │   └── demo_media/         # Imágenes y videos para pruebas
 ├── runs/
 │   └── detect/
 │       └── ppe_detector/   # Modelo entrenado
 │           └── weights/
-│               └── best.pt # Pesos del modelo
-├── venv/                   # Entorno virtual (no subir a Git)
+│               └── best.pt
 ├── check_compliance.py     # Verificación de cumplimiento EPP
 ├── data.yaml               # Configuración del dataset
 ├── detect_camera.py        # Detección con webcam
@@ -117,6 +114,7 @@ PPE_Detection_YOLOv8/
 ├── train.py                # Script de entrenamiento
 ├── yolov8n.pt              # Modelo base YOLOv8 nano
 └── README.md
+```
 
 ## Dataset
 
